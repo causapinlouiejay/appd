@@ -7,7 +7,7 @@ public class Banking {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
-        System.out.println("HELLO WELCOME TO THE SYSTEM!");
+        System.out.println("HELLO WELCOME TO THE CAUSAPIN SYSTEM!");
         System.out.println("What do you feel doing today? ");
         System.out.println("1. Banking");
         System.out.println("2. Doctors Appointment");
